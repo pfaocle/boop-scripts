@@ -4,7 +4,7 @@
     "name":"Remove blank lines",
     "description":"Removes all blank lines from your text",
     "author":"Paul Byrne",
-    "icon":"quote",
+    "icon":"collapse",
     "tags":"remove,blank,lines"
   }
 **/
